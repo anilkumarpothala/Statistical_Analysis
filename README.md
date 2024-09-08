@@ -36,14 +36,16 @@ Here's a detailed explanation of the key statistical concepts you've mentioned:
 5.Variance: Variance measures how far data points are from the mean by taking the average of squared differences. It is the square of the standard deviation.
 6.Range: The range is the simplest measure of data spread, calculated as the difference between the maximum and minimum values in a dataset.
 
-
 Additional Descriptive Measures:
 Percentiles and Quartiles: Percentiles are measures that indicate the value below which a given percentage of observations fall. Quartiles divide the dataset into four equal parts. 
 The 25th percentile is the first quartile (Q1), the 50th percentile is the second quartile (Q2, also the median), and the 75th percentile is the third quartile (Q3).
 Quartiles and percentiles provide insight into the distribution and spread of the data.
+
 Interquartile Range (IQR): The IQR is the range of the middle 50% of the values in a dataset, calculated as the difference between the third quartile (Q3) and the first quartile (Q1). The IQR is a robust measure of spread and is useful for identifying outliers.
+
 Skewness: Skewness measures the asymmetry of the data distribution. A positive skew indicates that the right tail of the distribution is longer or fatter than the left tail (right-skewed). A negative skew indicates that the left tail is longer or fatter than the right tail (left-skewed).
 Skewness provides insights into the direction and degree of asymmetry in the data.
+
 Kurtosis: Kurtosis measures the “tailedness” or the peak of the data distribution. High kurtosis means that the data have heavy tails or outliers, whereas low kurtosis indicates light tails or fewer outliers. 
 Kurtosis helps in understanding the extremity of deviations from the mean.
 
